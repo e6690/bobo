@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+html,body {
+    background: #226490;
+}
+.container {
+    color: white;
+    text-align: center;
+    margin: auto;
+
+}
+h5 {
+    font-size: 30px;
+    font-family: 'Libre Baskerville', sans-serif;
+}
+h1 {
+    font-size: 30px;
+    height: 200px;
+    max-width: 900px;
+    margin: auto;
+    padding: 50px;
+    font-family: 'Kalam', sans-serif;
+}
+button {
+    padding: 10px 20px;
+    background: black;
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 20px;
+}
